@@ -1,0 +1,85 @@
+.container{
+    position: relative;
+    margin: 0 auto;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 35px;
+    left: 35px;
+}
+.navbar{
+    display: flex;
+    float: center;
+    background-color: black;
+    padding: 30px;
+    nav-right: current;
+    justify-content: right;
+    color: white;
+    border-radius: 30px;
+    column-gap: 15em;
+    color: white;
+    
+}
+.image{
+    width: 95%;
+    border-radius: 40px;
+    padding: 15px 15px;
+}
+.await{
+    display: flex;
+    grid-template-columns: 50% 50%;
+    column-gap: 40%;
+}
+.image2{
+    width: 100%;
+}
+.image3{
+    display: flex;
+    column-gap: 30em;
+    padding: 20px;
+}
+button{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    width: 20%;
+    border-radius: 30px;
+    position: relative;
+}
+.endcontent{
+    background-color: black;
+    color: white;
+    display: flex;
+    grid-template-columns: 19% 19% 19% 19% 19%;
+    column-gap: 15em;
+    padding: 40px;
+
+}
+li{
+    list-style: none;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+input{
+    border-radius: 30px;
+    padding: 15px;
+    width: 30em;
+}
+.lastphoto{
+    position: relative;
+   margin: 0 auto;
+}
+.input{
+    position: absolute;
+    bottom: 65px;
+    left: 30px;
+}
+i{
+    padding: 20px;
+}
+.Magic{
+    justify-content: center;
+}
